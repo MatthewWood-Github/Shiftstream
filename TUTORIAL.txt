@@ -1,0 +1,63 @@
+SHIFTSTREAM Version 1.0a
+Author: https://github.com/MatthewWood-Github
+
+TUTORIAL
+
+NOTE: To enjoy the full experience of the game I recommend that
+you play this game with a controller.
+
+This is because I have not yet implemented analogue keyboard
+support resulting in inputs feeling delayed.
+
+In the future this file will be replaced by an in-game tutorial.
+
+========== Controls (Dualshock) ===========
+
+-Movement-
+	Right trigger - Accelerate
+	Left trigger - Brake/Reverse
+
+	Right bumper(Hold) - Start Drift
+	Right bumper(Release) - Release Drift
+
+	Left stick - Steer
+
+	X - Jump
+
+-Camera-
+	Right stick - Move camera
+	Square - Reset camera rotation
+	Triangle - Cycle spectator camera
+
+-Menu-
+	Start - Open/Close pause menu
+
+	To navigate use the mouse.
+	
+========== Drifting ===========
+
+Drifting allows you to gain large and sustained bursts of speed.
+
+This is a key feature in order to gain an advantage.
+
+1) To start a drift hold the right bumper down.
+
+2) With the right bumper held down, if you move the left stick
+   left or right you build charge.
+   The more to the left or right the stick is, the faster the 
+   charge builds.
+   
+3) Charge is gained in two stages indicated by the bar in the center
+   of the screen. For each bar of charge the drift lasts longer.
+   
+   The amount of charge also is shown by the colour of the sparks
+   coming from the wheels during a drift.
+
+4) To release a drift, let go of the right bumper whilst having
+   at least one bar of charge.
+
+5) The drift can be cancelled without gaining speed if you break enough.
+
+TIP: drifts can be charged on any section of road. I recommend doing them
+     as often as possible.
+
