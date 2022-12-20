@@ -34,7 +34,7 @@ Quality of life has and will be another important goal.
 	3-Conclusion.mp3 => Results screen
 	Engine-Sound-1.mp3 => Default car engine sound
 
-Note: Audio is not currently implimented.
+Note: Audio is not currently implemented.
 
 ========== Game Contents ===========
 
