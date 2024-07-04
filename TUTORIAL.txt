@@ -4,7 +4,7 @@ Author: https://github.com/MatthewWood-Github
 TUTORIAL
 
 NOTE: To enjoy the full experience of the game I recommend that
-you play this game with a controller.
+you play this game with a DualShock controller.
 
 This is because I have not yet implemented analogue keyboard
 support resulting in inputs feeling delayed.
