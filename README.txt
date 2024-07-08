@@ -23,6 +23,9 @@ assets myself including the source code, models and music.
 
 Quality of life has and will be another important goal.
 
+Video Preview: https://youtu.be/IVEKcVIqmFo
+AI Demo: https://youtu.be/qQrPzO3bJAc
+
 ======== Package Contents =========
 
 .Shiftstream.exe file
